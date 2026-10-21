@@ -1,0 +1,10 @@
+kurigram                  # Pyrogram-এর ফর্ক (Telegram client)
+tgcrypto==1.2.5           # Telegram-এর জন্য দ্রুত ক্রিপ্টো (C লাইব্রেরি)
+py-tgcalls==0.9.7         # ভয়েস চ্যাট স্ট্রিমিং
+yt-dlp                    # YouTube ডাউনলোডার (fallback হিসেবে)
+youtube_search            # YouTube সার্চ
+aiohttp                   # async HTTP ক্লায়েন্ট
+motor                     # MongoDB-র async ড্রাইভার
+fastapi                   # ওয়েব সার্ভার (keep-alive-এর জন্য)
+uvicorn                   # ASGI সার্ভার (FastAPI চালাতে)
+Pillow                    # Now Playing কার্ড ইমেজ জেনারেশন
